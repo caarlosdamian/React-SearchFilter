@@ -1,4 +1,4 @@
-# Book Store 
+# Book Store 📔
 
 This is a simple application which makes use of the information Array management function such as filter, slice, map.
 
